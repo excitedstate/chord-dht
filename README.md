@@ -10,8 +10,6 @@ Chord-DHT is a project that implements a [Distributed Hash Table (DHT)](https://
 - [Usage](#usage)
 - [Dynamic DHT Implementation](#dynamic-dht-implementation)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ### Project Description
 
@@ -89,11 +87,3 @@ Chord-DHT/
 ├── LICENSE
 └── README.md
 ```
-
-### Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure you follow the coding conventions and include appropriate tests.
-
-### License
-
-This project is licensed under the MIT License.
